@@ -2,7 +2,7 @@
 Channel: RAJJ YT
 watch Full Video On YouTube :-
 https://youtu.be/dNknidnKiEM
-Codes :-
+Codes + Library + circuit:-
 https://github.com/usmanrajj/Servo-motor.git
 */
 #include <Servo_ESP32.h>
